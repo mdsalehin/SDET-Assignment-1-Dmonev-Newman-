@@ -30,8 +30,8 @@
 
 
 ### API Documentation: https://documenter.getpostman.com/view/47470180/2sB3Hhs2Ug
-### Test Case Report: ‹test case link ›
-### Bug Report: ‹bug report link>
+### Test Case Report: ‹Test case  link›
+  ###     Bug Report: ‹Bug report link>
 
 
 
