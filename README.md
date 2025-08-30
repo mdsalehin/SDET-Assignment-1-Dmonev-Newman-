@@ -1,12 +1,12 @@
-# Dmoney transaction Flow integration
+# Dmoney Transaction Flow Integration
 
 
-# This is called integration test Automation 
-# This is called system integration testing..
+# This is Called Integration Test Automation 
+# This is called System Integration Testing..
 
 
 
-## Summary: In this demo fintech system, we can create agent, customer, merchant, etc roles and they can exchange money, admin can manage the users.
+## Summary: In this demo Fintech System, we can Create Agent, Customer, Merchant, etc roles and they can exchange money, Admin can Manage The Users.
 
 
 
