@@ -30,9 +30,9 @@
 
 
 
-### API Documentation: https://documenter.getpostman.com/view/47470180/2sB3Hhs2Ug
-### Test Case Report: ‹Test case  link› https://salahin1999-7191570.postman.co/workspace/salahin~041009e8-1e4e-46f7-b860-2c95a6913e64/collection/47470180-959e24f6-86ae-4cb6-8c1a-c9df0c4491e3?action=share&creator=47470180
-  ###     Bug Report: ‹Bug report link> https://docs.google.com/spreadsheets/d/18Z_vnh9YzDQ4H8inRkDQoHoyR_GOeyjVzkpjg3FNDTY/edit?usp=sharing
+###           API Documentation:        https://documenter.getpostman.com/view/47470180/2sB3Hhs2Ug
+### Test Case Report: ‹Test case  link› https://api.postman.com/collections/47470180-959e24f6-86ae-4cb6-8c1a-c9df0c4491e3?access_key=PMAT-01K3YC1XNZSCW7339SKZV217Q1
+###      Bug Report: ‹Bug report link> https://docs.google.com/spreadsheets/d/18Z_vnh9YzDQ4H8inRkDQoHoyR_GOeyjVzkpjg3FNDTY/edit?usp=sharing
 
 
 
