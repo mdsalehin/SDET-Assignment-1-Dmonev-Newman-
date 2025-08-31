@@ -21,7 +21,7 @@
 
 ### How to run this project：
 1. Clone this repo
-```git clone https://github.com/mdsalehin/dmoney-newman-b16 ```
+``` https://github.com/mdsalehin/SDET-Assignment-1-Dmonev-Newman-   ```
 2. ``` npm i ```
 3. Create `.env` file and copy from the env.template and set your own PMAT key
 4. Hit this command to run: ``` npm start ```
